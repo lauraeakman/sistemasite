@@ -15,7 +15,9 @@
                <li><a href="contact.html">CONTACT</a></li>
             </ul>
          </header>
-         <div id="main_body">
+         <div id="left_column">
+         </div>
+         <div id="center_column">
             <img src="img/classpicture.jpg" width="400">
             <p>El Sistema Colorado is a visionary movement that transforms the lives of 
                children through music; a new model for social change. Our mission is to 
@@ -28,7 +30,14 @@
                attitude. He is a great leader and asset to our program!</p>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/GXcRI0BdioE" frameborder="0" allowfullscreen></iframe>
             <p>Feeling inspired?! Ask your teacher for MORE MUSIC TO LEARN!</p>
-         </div> <!-- end main body -->
+         </div> <!-- end center column -->
+         <div id="right_column">
+            <h2>UPCOMING EVENTS</h2>
+            <ul>
+               <li>First day of afterschool program: September 8, 2015</li>
+               <li>Fall Concert</li>
+            </ul>
+         </div>
       </div> <!-- end main wrapper -->
    </body>
 </html>
