@@ -1,3 +1,7 @@
+body {
+   width: 1280px;
+}
+
 h1 { 
    font-family: 'Amatic SC', cursive;
    font-weight: bold;
@@ -72,12 +76,12 @@ header {
 
 #left_column {
    float: left;
-   width: 207px;
-   padding-left: 10px;
+   width: 199px;
+   padding-left: 20px;
 }
 
 #center_column {
-   width: 814px;
+   width: 812px;
    display: inline-block;
 }
 
