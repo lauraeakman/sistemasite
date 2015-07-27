@@ -1,6 +1,7 @@
 <html>
    <head>
       <title>El Sistema at Swansea</title>
+      <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|News+Cycle|Amatic+SC:400,700' rel='stylesheet' type='text/css'>
       <link rel="stylesheet" type="text/css" href="css/style.css" />
    </head>
    <body>
@@ -13,24 +14,26 @@
                <li><a href="practice.html">PRACTICE</a></li>
                <li><a href="calendar.html">CALENDAR</a></li>
                <li><a href="contact.html">CONTACT</a></li>
-            </ul>
+               <li><a href="index.html.en">HOME</a></li>
+             </ul>
          </header>
-         <div id="left_column">
-         </div>
          <div id="center_column">
-            <img src="img/classpicture.jpg" width="400">
+            <img src="img/classpicture.jpg" id="classpicture">
             <p>El Sistema Colorado is a visionary movement that transforms the lives of 
                children through music; a new model for social change. Our mission is to 
                empower children by providing an intensive music program that teaches the 
                importance of teamwork, promotes self-confidence, and instills the value 
                of social responsibility.</p>
-            <img src="img/studentoftheweek.jpg" width="400">
+            <img src="img/studentoftheweek.jpg" id="studentoftheweek">
             <p>Yao is a great student! He takes the initiative to ask for help when he 
                needs it, practices consistently, helps others, and always keeps a positive 
                attitude. He is a great leader and asset to our program!</p>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/GXcRI0BdioE" frameborder="0" allowfullscreen></iframe>
             <p>Feeling inspired?! Ask your teacher for MORE MUSIC TO LEARN!</p>
          </div> <!-- end center column -->
+         <div id="left_column">
+            &nbsp;
+         </div>
          <div id="right_column">
             <h2>UPCOMING EVENTS</h2>
             <ul>

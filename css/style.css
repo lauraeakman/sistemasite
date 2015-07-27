@@ -1,7 +1,81 @@
-.yellow {
-   color:yellow;
+h1, h2 {
+   font-family: 'News Cycle', sans-serif;
 }
 
-h1 {
-   font-size:20px;
+header h1 {
+   font-size:45px;
+   float: right;
+   width: 81%;
+   padding-top: 10px;
+   margin-bottom: 0px;
+}
+
+header li {
+   float: left;
+   margin: 0px 28px;
+}
+
+ul {
+   list-style-type: none;
+}
+
+#right_column h2 {
+   margin: 0px;
+}
+
+#right_column ul {
+   padding: 0px;
+   margin: 0px;
+}
+
+p, ul {
+   font-family: 'Amatic SC', cursive;
+   font-size: 30px;
+}
+
+header ul {
+   margin-left: 300px;
+}
+
+header a {
+   text-decoration: none;
+   color: black;
+}
+
+header {
+   margin-bottom: 120px;
+}
+
+#left_column {
+   float: left;
+   width: 223px;
+}
+
+#center_column {
+   width: 808px;
+   display: inline-block;
+}
+
+#right_column {
+   width: 243px;
+   float: right;
+}
+
+#center_column img, iframe{
+   margin: 0px auto;
+   display: block;
+}
+
+#classpicture {
+   width: 750px;
+}
+
+#studentoftheweek {
+   width: 300px;
+}
+
+#center_column p {
+   width: 80%;
+   margin: 30px auto 50px auto;
+   text-align: justify;
 }
