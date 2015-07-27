@@ -48,16 +48,16 @@ header {
 
 #left_column {
    float: left;
-   width: 223px;
+   width: 217px;
 }
 
 #center_column {
-   width: 808px;
+   width: 814px;
    display: inline-block;
 }
 
 #right_column {
-   width: 243px;
+   width: 249px;
    float: right;
 }
 
@@ -78,4 +78,8 @@ header {
    width: 80%;
    margin: 30px auto 50px auto;
    text-align: justify;
+}
+
+#center_column h2 {
+   margin: 20px 300px;
 }
